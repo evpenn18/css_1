@@ -1,0 +1,18 @@
+body {
+	background-color: blue;
+	color: gold;
+}
+
+p {
+	color: white;
+}
+
+footer p {
+	background-color: gold;
+}
+
+li {
+	background-color: white;
+	color: grey;
+	padding: 5px 5px 5px 5px;
+}
